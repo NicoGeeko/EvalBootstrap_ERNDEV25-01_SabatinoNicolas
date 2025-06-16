@@ -1,0 +1,32 @@
+/*# sourceMappingURL=style.css.map */
+
+.mainColor {
+    background-color: #ffa705;
+}
+
+.secondColor{
+   background-color:#dfe3e7
+}
+
+#title {
+    font-family: impact;
+}
+
+#carousel {
+    position: static;
+    z-index: 1;
+}
+
+#blockText {
+    display: flex;
+    position: absolute;
+    z-index: 2;
+    height: 150px;
+    width: 400px;
+    background-color: white;
+    opacity : 0.6;
+    padding: 10px;
+    margin-top: -20%;
+    margin-left: 60%;
+
+}
